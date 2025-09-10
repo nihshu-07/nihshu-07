@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Niharika 👋
 
-<!--
-**nihshu-07/nihshu-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 📊 Aspiring **Data Analyst**
+- 🛠 Skilled in **SQL, Python, Excel, Power BI**
+- 📈 Passionate about data cleaning, visualization & problem solving
+- 🌱 Currently learning **DAX & Advanced SQL**
+- 💼 Open to opportunities in Data Analytics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python
+- SQL
+- Data Visualisation
+- Data Cleaning
+- EDA
+- PowerBI/Tableau
+- Excel
+  
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharikatyagi7/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharika.tyagi710@gmail.com)
+

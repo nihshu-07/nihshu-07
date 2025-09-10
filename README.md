@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 - 📊 Aspiring **Data Analyst**
-- 🛠 Skilled in **SQL, Python, Excel, Power BI**
+- 🛠 Skilled in **Python ,SQL ,Data Visualisation ,Data Cleaning ,EDA ,PowerBI/Tableau , Excel**
 - 📈 Passionate about data cleaning, visualization & problem solving
 - 🌱 Currently learning **DAX & Advanced SQL**
 - 💼 Open to opportunities in Data Analytics
@@ -10,13 +10,10 @@
 ---
 
 ## 🔧 Tech Stack
-- Python
-- SQL
-- Data Visualisation
-- Data Cleaning
-- EDA
-- PowerBI/Tableau
-- Excel
+ ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
   
 ---
 

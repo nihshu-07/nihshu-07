@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 - 📊 Aspiring **Data Analyst**
-- 🛠 Skilled in **Python ,SQL ,Data Visualisation ,Data Cleaning ,EDA ,PowerBI/Tableau , Excel**
+- 🛠 Skilled in **Python ,SQL ,PowerBI/Tableau , Excel**
 - 📈 Passionate about data cleaning, visualization & problem solving
 - 💼 Open to opportunities in Data Analytics
 

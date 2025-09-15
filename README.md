@@ -9,11 +9,11 @@
 ---
 
 ## 🔧 Tech Stack
- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-  
+- **Data Visualization**: Power BI, Tableau, Excel (Pivot Tables, Charts)  
+- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib) 
+- **Databases**: SQL (MySQL)  
+- **Business Intelligence**: DAX  
+- **Other Tools**: Git & GitHub, Jupyter Notebook
 ---
 
 ## 📫 Connect with Me

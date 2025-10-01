@@ -25,8 +25,10 @@
 
 ## 📂 Featured Project  
 
-### [Online Course Analysis](https://github.com/nihshu-07/Online-Course-Dashboard) - Power BI
-### [Python UI for Advanced SQL](https://github.com/nihshu-07/UI-for-Advanced-SQL) - SQL/Python/UI
+| Project | Tech Stack |
+|---------|------------|
+| 🔗 **[Online Course Analysis](https://github.com/nihshu-07/Online-Course-Dashboard)** | Power BI |
+| 🔗 **[Python UI for Advanced SQL](https://github.com/nihshu-07/UI-for-Advanced-SQL)** | SQL • Python • Streamlit |
 ---
 
 ## 🌐 Connect with Me

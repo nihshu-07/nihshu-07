@@ -28,6 +28,7 @@
 | Project | Tech Stack |
 |---------|------------|
 | 🔗 **[Online Course Analysis](https://github.com/nihshu-07/Online-Course-Dashboard)** | Power BI |
+| 🔗  **[Whatsapp Chat Analyzer](https://github.com/nihshu-07/Whatsapp-chat-Analyzer)** | Python • Streamlit |
 | 🔗 **[Python UI for Advanced SQL](https://github.com/nihshu-07/UI-for-Advanced-SQL)** | SQL • Python • Streamlit |
 | 🔗 **[Online Retails Analysis](https://github.com/nihshu-07/Online-retails-analysis)** | Python • Tableau |
 ---
